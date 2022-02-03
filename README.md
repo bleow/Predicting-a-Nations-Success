@@ -1,2 +1,2 @@
 # BC2406-AnalyticsI_R
- NTU NBS Y2S1 | ANALYTICS I: VISUAL AND PREDICTIVE TECHNIQUES Predictive Techniques
+Making data and AI-driven recommendations to the Economist Intelligence Unit on metrics to use in predicting the future performance of a nation
